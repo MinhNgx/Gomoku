@@ -1,0 +1,2 @@
+# Gomoku2
+Gomoku
